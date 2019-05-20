@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://iehoopahna.kilianfrey.com/sitemap.xml
